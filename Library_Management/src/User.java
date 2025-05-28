@@ -1,35 +1,19 @@
 import java.io.Serializable;
 
 public class User implements Serializable {
-	
-	private String name;
-	private String ID;
-	
-	public User(String n, String id) {
-		name = n;
-		ID = id;
-	}
+    protected String name;
+    protected String id;
 
-	public String getName() {
-		return name;
-	}
+    public User(String name, String id) {
+        this.name = name;
+        this.id = id;
+    }
 
-	public void setName(String na) {
-		name = na;
-	}
+    public String getName() {
+        return name;
+    }
 
-	public String getID() {
-		return ID;
-	}
-
-	public void setID(String iD) {
-		ID = iD;
-	}
-	
-	public String toString() {
-		String s = "Name: " + name + "\nID: " + ID;
-		return s;
-	}
-	
-
+    public String getId() {
+        return id;
+    }
 }
