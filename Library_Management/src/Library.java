@@ -14,8 +14,8 @@ public class Library extends JFrame implements ActionListener {
         });
     }
 
-    private JTextArea textArea;
     private JTextField inputField;
+    private JTextArea textArea;
     private JButton pressButton;
     private ArrayList<Book> books;
     private ArrayList<Student> students;
