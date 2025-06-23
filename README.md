@@ -173,6 +173,6 @@ This project demonstrates mastery of:
 - **Session Management**: Secure user authentication required
 
 ---
-**My first independent OOP project** | (https://github.com/AGButt04) | (https://www.linkedin.com/in/abdul-ghani-butt-290056338/)
+**My first independent OOP project** | [Github Profile](https://github.com/AGButt04) | [LinkedIn](https://www.linkedin.com/in/abdul-ghani-butt-290056338/)
 
 *This project holds special significance as my first venture into independent object-oriented programming, representing the foundation of my software development journey.*
